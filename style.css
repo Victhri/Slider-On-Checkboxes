@@ -332,7 +332,9 @@ input[name="dot"] {
     box-shadow: inset 0px 0px 50px -18px rgba(150,45,52,1);
 }
 /*benefits*/
-
+.benefits-wrapper {
+    height: 0;
+}
 .benefits {
     padding: 20px 0 16px;
     background-color: #fff;
