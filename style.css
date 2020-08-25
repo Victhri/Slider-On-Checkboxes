@@ -115,7 +115,7 @@ nav {
 }
 
 
-li:after {
+.desktop-menu li:nth-child(1-n):after {
     content: '';
     position: absolute;
     width: 1px;
@@ -125,9 +125,7 @@ li:after {
     transform: translateY(-50%);
     background: #ccc;
 }
-li:last-child:after {
-    display: none;
-}
+
 .hamburger-menu {
     display: none;
 }
