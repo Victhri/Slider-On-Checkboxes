@@ -1,1 +1,1 @@
-Demo: https://victhri.github.io/Slider-On-checkboxes
+Demo: https://victhri.github.io/Slider-On-Checkboxes
